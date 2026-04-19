@@ -1,31 +1,134 @@
 {
   "projects": [
     {
-      "title": "Sonne und Beton",
-      "year": 2023,
-      "role": "Schnittassistenz",
-      "poster": "/images/posters/sonne-und-beton.jpg",
-      "type": "Kinofilm",
-      "production": "Babelsberg Film",
-      "crewUnited": "https://www.crew-united.com/de/sonne-und-beton"
-    },
-    {
-      "title": "Dark – Staffel 3",
-      "year": 2020,
-      "role": "DI Producer",
-      "poster": "/images/posters/dark-s3.jpg",
-      "type": "Serie",
-      "production": "Wiedemann & Berg Television",
-      "crewUnited": "https://www.crew-united.com/de/dark-staffel-3"
-    },
-    {
-      "title": "Und morgen die ganze Welt",
-      "year": 2020,
+      "title": "Tatort - Im Wahn",
+      "year": 2025,
       "role": "Schnitt",
-      "poster": "/images/posters/und-morgen.jpg",
+      "type": "Serie",
+      "poster": "/images/posters/placeholder.svg",
+      "tmdb_id": null,
+      "poster_missing": true,
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+    },
+    {
+      "title": "Hallo Spencer - Der Film",
+      "year": 2024,
+      "role": "Schnitt",
+      "type": "Serie",
+      "poster": "/images/posters/hallo-spencer---der-film.jpg",
+      "tmdb_id": 1371536,
+      "poster_missing": false,
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+    },
+    {
+      "title": "Spirit in the Blood",
+      "year": 2024,
+      "role": "Schnitt",
       "type": "Kinofilm",
-      "production": "Rohfilm Factory",
-      "crewUnited": "https://www.crew-united.com/de/und-morgen-die-ganze-welt"
+      "poster": "/images/posters/spirit-in-the-blood.jpg",
+      "tmdb_id": 1275003,
+      "poster_missing": false,
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+    },
+    {
+      "title": "Intimate.",
+      "year": 2023,
+      "role": "Schnitt",
+      "type": "Serie",
+      "poster": "/images/posters/intimate.jpg",
+      "tmdb_id": 222313,
+      "poster_missing": false,
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+    },
+    {
+      "title": "Mittagsstunde",
+      "year": 2022,
+      "role": "Schnitt",
+      "type": "Kinofilm",
+      "poster": "/images/posters/mittagsstunde.jpg",
+      "tmdb_id": 950199,
+      "poster_missing": false,
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+    },
+    {
+      "title": "Rheingold",
+      "year": 2022,
+      "role": "Schnitt",
+      "type": "Kinofilm",
+      "poster": "/images/posters/rheingold.jpg",
+      "tmdb_id": 912726,
+      "poster_missing": false,
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+    },
+    {
+      "title": "Eltern allein zu Haus",
+      "year": 2016,
+      "role": "Schnitt",
+      "type": "Serie",
+      "poster": "/images/posters/eltern-allein-zu-haus.jpg",
+      "tmdb_id": 452744,
+      "poster_missing": false,
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+    },
+    {
+      "title": "Gold - Du kannst mehr als du denkst",
+      "year": 2013,
+      "role": "Avid Operator",
+      "type": "Dokumentation",
+      "poster": "/images/posters/gold---du-kannst-mehr-als-du-denkst.jpg",
+      "tmdb_id": 269179,
+      "poster_missing": false,
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+    },
+    {
+      "title": "My Wife, My Boss",
+      "year": 2013,
+      "role": "Schnittassistenz",
+      "type": "Serie",
+      "poster": "/images/posters/placeholder.svg",
+      "tmdb_id": null,
+      "poster_missing": true,
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+    },
+    {
+      "title": "Nichts als die Wahrheit - 30 Jahre Die Toten Hosen",
+      "year": 2012,
+      "role": "Schnittassistenz",
+      "type": "Dokumentation",
+      "poster": "/images/posters/nichts-als-die-wahrheit---30-jahre-die-toten-hosen.jpg",
+      "tmdb_id": 151887,
+      "poster_missing": false,
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+    },
+    {
+      "title": "Der Hafenpastor",
+      "year": 2012,
+      "role": "Schnittassistenz",
+      "type": "Serie",
+      "poster": "/images/posters/der-hafenpastor.jpg",
+      "tmdb_id": 265100,
+      "poster_missing": false,
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+    },
+    {
+      "title": "Löwenzahn - Das Kinoabenteuer",
+      "year": 2011,
+      "role": "Schnittassistenz",
+      "type": "Kinofilm",
+      "poster": "/images/posters/loewenzahn---das-kinoabenteuer.jpg",
+      "tmdb_id": 200277,
+      "poster_missing": false,
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+    },
+    {
+      "title": "Beloved Berlin Wall",
+      "year": 2009,
+      "role": "Schnittassistenz",
+      "type": "Dokumentation",
+      "poster": "/images/posters/beloved-berlin-wall.jpg",
+      "tmdb_id": 43652,
+      "poster_missing": false,
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
     }
   ]
 }
