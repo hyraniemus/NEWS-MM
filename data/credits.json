@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "title": "Sonne und Beton",
+      "year": 2023,
+      "role": "Schnittassistenz",
+      "poster": "/images/posters/sonne-und-beton.jpg",
+      "type": "Kinofilm",
+      "production": "Babelsberg Film",
+      "crewUnited": "https://www.crew-united.com/de/sonne-und-beton"
+    },
+    {
+      "title": "Dark – Staffel 3",
+      "year": 2020,
+      "role": "DI Producer",
+      "poster": "/images/posters/dark-s3.jpg",
+      "type": "Serie",
+      "production": "Wiedemann & Berg Television",
+      "crewUnited": "https://www.crew-united.com/de/dark-staffel-3"
+    },
+    {
+      "title": "Und morgen die ganze Welt",
+      "year": 2020,
+      "role": "Schnitt",
+      "poster": "/images/posters/und-morgen.jpg",
+      "type": "Kinofilm",
+      "production": "Rohfilm Factory",
+      "crewUnited": "https://www.crew-united.com/de/und-morgen-die-ganze-welt"
+    }
+  ]
+}

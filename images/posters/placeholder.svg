@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
+  <rect width="400" height="600" fill="#1a1a1e"/>
+  <rect x="1" y="1" width="398" height="598" fill="none" stroke="#2a2a30" stroke-width="1"/>
+  <g opacity="0.2" transform="translate(200,300)">
+    <rect x="-60" y="-80" width="120" height="90" rx="6" fill="none" stroke="#c8a96e" stroke-width="3"/>
+    <circle cx="-25" cy="-52" r="12" fill="none" stroke="#c8a96e" stroke-width="3"/>
+    <polyline points="60,10 20,-30 -60,60" fill="none" stroke="#c8a96e" stroke-width="3"/>
+  </g>
+  <text x="200" y="420" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#4a4a5a" letter-spacing="2">FILMPLAKAT</text>
+</svg>

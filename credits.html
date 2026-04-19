@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Credits – Max Mittelbach</title>
+  <meta name="description" content="Alle Filmprojekte mit Max Mittelbach im Abspann – Schnitt, Schnittassistenz, DI Producer.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="/" class="nav-logo">Max <span>Mittelbach</span></a>
+      <ul class="nav-links">
+        <li><a href="/">Start</a></li>
+        <li><a href="/credits.html" class="active">Credits</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main>
+    <header class="page-header">
+      <h1>Film<span>credits</span></h1>
+      <p>Projekte, bei denen ich im Abspann stehe – als Schnittassistenz, Schnitt oder DI Producer.</p>
+    </header>
+
+    <div class="filter-bar" id="filterBar">
+      <button class="filter-btn active" data-filter="all">Alle</button>
+      <button class="filter-btn" data-filter="Kinofilm">Kino</button>
+      <button class="filter-btn" data-filter="Serie">Serie</button>
+      <button class="filter-btn" data-filter="Dokumentation">Doku</button>
+    </div>
+
+    <div class="credits-grid" id="creditsGrid">
+      <!-- Cards injected by credits.js -->
+      <noscript>
+        <p style="color:var(--text-muted); grid-column:1/-1; padding:2rem 0;">
+          Bitte JavaScript aktivieren, um die Galerie zu laden.
+        </p>
+      </noscript>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    &copy; <span id="year"></span> Max Mittelbach
+  </footer>
+
+  <script src="/js/credits.js"></script>
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
