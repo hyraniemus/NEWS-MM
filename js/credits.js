@@ -7,7 +7,7 @@
 
   // ── Load data ────────────────────────────────────────────────────────
   try {
-    const res = await fetch('/data/credits.json');
+    const res = await fetch('data/credits.json');
     if (!res.ok) throw new Error(res.status);
     const data = await res.json();
     allProjects = data.projects ?? [];
