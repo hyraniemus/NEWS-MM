@@ -5,9 +5,9 @@
       "year": 2025,
       "role": "Schnitt",
       "type": "Serie",
-      "poster": "images/posters/placeholder.svg",
-      "tmdb_id": null,
-      "poster_missing": true,
+      "poster": "images/posters/tatort---im-wahn.jpg",
+      "tmdb_id": 3034,
+      "poster_missing": false,
       "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
       "production": ""
     },
@@ -17,9 +17,9 @@
       "role": "Schnitt",
       "type": "Serie",
       "production": "Florida Film GmbH",
-      "poster": "images/posters/placeholder.svg",
-      "tmdb_id": null,
-      "poster_missing": true,
+      "poster": "images/posters/olivia.jpg",
+      "tmdb_id": 1447875,
+      "poster_missing": false,
       "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
     },
     {
@@ -203,9 +203,9 @@
       "year": 2013,
       "role": "Schnittassistenz",
       "type": "Serie",
-      "poster": "images/posters/placeholder.svg",
-      "tmdb_id": null,
-      "poster_missing": true,
+      "poster": "images/posters/my-wife-my-boss.jpg",
+      "tmdb_id": 285300,
+      "poster_missing": false,
       "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
       "production": ""
     },
