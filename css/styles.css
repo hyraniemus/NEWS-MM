@@ -166,6 +166,38 @@ img { display: block; max-width: 100%; }
 @media (max-width: 720px)  { .credits-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 400px)  { .credits-grid { grid-template-columns: 1fr; } }
 
+/* ─── Broadcaster Logo ─────────────────────────────────────────────── */
+.broadcaster-badge {
+  position: absolute;
+  top: 0.6rem;
+  right: 0.6rem;
+  z-index: 10;
+  height: 28px;
+  min-width: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+  padding: 0 6px;
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  backdrop-filter: blur(4px);
+  pointer-events: none;
+}
+
+/* Per-sender colours */
+.bc-ARD    { background: #003CA6; color: #fff; }
+.bc-ZDF    { background: #FF6600; color: #fff; }
+.bc-RTL    { background: #E40046; color: #fff; font-style: italic; }
+.bc-RTL-P  { background: #E40046; color: #fff; font-style: italic; }
+.bc-Sky    { background: #000; color: #fff; border: 1px solid #444; }
+.bc-Joyn   { background: #FF5C00; color: #fff; }
+.bc-kino   { background: rgba(255,255,255,0.12); color: rgba(255,255,255,0.7); border: 1px solid rgba(255,255,255,0.15); }
+.bc-TV     { background: rgba(255,255,255,0.12); color: rgba(255,255,255,0.7); border: 1px solid rgba(255,255,255,0.15); }
+
 /* ─── Poster Card ──────────────────────────────────────────────────── */
 .poster-card {
   position: relative;

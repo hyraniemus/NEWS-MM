@@ -9,7 +9,8 @@
       "tmdb_id": 3034,
       "poster_missing": false,
       "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
-      "production": ""
+      "production": "",
+      "broadcaster": "ARD"
     },
     {
       "title": "Olivia",
@@ -20,7 +21,8 @@
       "poster": "images/posters/olivia.jpg",
       "tmdb_id": 1447875,
       "poster_missing": false,
-      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
+      "broadcaster": "ZDF"
     },
     {
       "title": "Songs for Joy",
@@ -31,7 +33,8 @@
       "poster": "images/posters/songs-for-joy.jpg",
       "tmdb_id": 1525993,
       "poster_missing": false,
-      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
+      "broadcaster": "kino"
     },
     {
       "title": "Amrum",
@@ -42,7 +45,8 @@
       "poster": "images/posters/amrum.jpg",
       "tmdb_id": 1269644,
       "poster_missing": false,
-      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
+      "broadcaster": "kino"
     },
     {
       "title": "Hallo Spencer - Der Film",
@@ -53,7 +57,8 @@
       "tmdb_id": 1371536,
       "poster_missing": false,
       "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
-      "production": ""
+      "production": "",
+      "broadcaster": "TV"
     },
     {
       "title": "Spirit in the Blood",
@@ -64,7 +69,8 @@
       "tmdb_id": 1275003,
       "poster_missing": false,
       "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
-      "production": ""
+      "production": "",
+      "broadcaster": "kino"
     },
     {
       "title": "Intimate.",
@@ -75,7 +81,8 @@
       "tmdb_id": 222313,
       "poster_missing": false,
       "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
-      "production": "Kleine Brüder GmbH"
+      "production": "Kleine Brüder GmbH",
+      "broadcaster": "Joyn"
     },
     {
       "title": "Legend of Wacken",
@@ -86,7 +93,8 @@
       "poster": "images/posters/legend-of-wacken.jpg",
       "tmdb_id": 230182,
       "poster_missing": false,
-      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
+      "broadcaster": "RTL+"
     },
     {
       "title": "Mittagsstunde",
@@ -97,7 +105,8 @@
       "tmdb_id": 950199,
       "poster_missing": false,
       "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
-      "production": ""
+      "production": "",
+      "broadcaster": "kino"
     },
     {
       "title": "Rheingold",
@@ -108,7 +117,8 @@
       "tmdb_id": 912726,
       "poster_missing": false,
       "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
-      "production": ""
+      "production": "",
+      "broadcaster": "kino"
     },
     {
       "title": "SaFahri - Eine Reise zu den Elementen",
@@ -116,10 +126,11 @@
       "role": "Schnitt",
       "type": "Dokumentation",
       "production": "Bon Voyage Films GmbH",
-      "poster": "images/posters/placeholder.svg",
+      "poster": "images/posters/safahri---eine-reise-zu-den-elementen.svg",
       "tmdb_id": 133703,
-      "poster_missing": true,
-      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+      "poster_missing": false,
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
+      "broadcaster": "Sky"
     },
     {
       "title": "Tagundnachtgleiche",
@@ -130,7 +141,8 @@
       "poster": "images/posters/tagundnachtgleiche.jpg",
       "tmdb_id": 567017,
       "poster_missing": false,
-      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
+      "broadcaster": "kino"
     },
     {
       "title": "Der Goldene Handschuh",
@@ -141,7 +153,8 @@
       "poster": "images/posters/der-goldene-handschuh.jpg",
       "tmdb_id": 505706,
       "poster_missing": false,
-      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
+      "broadcaster": "kino"
     },
     {
       "title": "Tabaluga - Der Film",
@@ -152,7 +165,8 @@
       "poster": "images/posters/tabaluga---der-film.jpg",
       "tmdb_id": 421920,
       "poster_missing": false,
-      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
+      "broadcaster": "kino"
     },
     {
       "title": "Aus dem Nichts",
@@ -163,7 +177,8 @@
       "poster": "images/posters/aus-dem-nichts.jpg",
       "tmdb_id": 423646,
       "poster_missing": false,
-      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
+      "broadcaster": "kino"
     },
     {
       "title": "Eltern allein zu Haus",
@@ -174,7 +189,8 @@
       "tmdb_id": 452744,
       "poster_missing": false,
       "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
-      "production": ""
+      "production": "",
+      "broadcaster": "ARD"
     },
     {
       "title": "Simpel",
@@ -185,7 +201,8 @@
       "poster": "images/posters/simpel.jpg",
       "tmdb_id": 423422,
       "poster_missing": false,
-      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html"
+      "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
+      "broadcaster": "kino"
     },
     {
       "title": "Gold - Du kannst mehr als du denkst",
@@ -196,7 +213,8 @@
       "tmdb_id": 269179,
       "poster_missing": false,
       "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
-      "production": ""
+      "production": "",
+      "broadcaster": "kino"
     },
     {
       "title": "My Wife, My Boss",
@@ -207,7 +225,8 @@
       "tmdb_id": 285300,
       "poster_missing": false,
       "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
-      "production": ""
+      "production": "",
+      "broadcaster": "ZDF"
     },
     {
       "title": "Nichts als die Wahrheit - 30 Jahre Die Toten Hosen",
@@ -218,7 +237,8 @@
       "tmdb_id": 151887,
       "poster_missing": false,
       "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
-      "production": ""
+      "production": "",
+      "broadcaster": "kino"
     },
     {
       "title": "Der Hafenpastor",
@@ -229,7 +249,8 @@
       "tmdb_id": 265100,
       "poster_missing": false,
       "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
-      "production": ""
+      "production": "",
+      "broadcaster": "ZDF"
     },
     {
       "title": "Löwenzahn - Das Kinoabenteuer",
@@ -240,7 +261,8 @@
       "tmdb_id": 200277,
       "poster_missing": false,
       "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
-      "production": ""
+      "production": "",
+      "broadcaster": "kino"
     },
     {
       "title": "Beloved Berlin Wall",
@@ -251,7 +273,8 @@
       "tmdb_id": 43652,
       "poster_missing": false,
       "crewUnited": "https://www.crew-united.com/de/Max-Mittelbach_93100.html",
-      "production": ""
+      "production": "",
+      "broadcaster": "kino"
     }
   ]
 }

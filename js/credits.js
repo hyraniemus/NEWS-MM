@@ -36,14 +36,40 @@
     });
   }
 
+  const BROADCASTER_LABELS = {
+    'ARD':  'ARD',
+    'ZDF':  'ZDF',
+    'RTL+': 'RTL+',
+    'Sky':  'Sky',
+    'Joyn': 'Joyn',
+    'kino': '▶ Kino',
+    'TV':   'TV',
+  };
+  const BROADCASTER_CLASS = {
+    'ARD':  'bc-ARD',
+    'ZDF':  'bc-ZDF',
+    'RTL+': 'bc-RTL-P',
+    'Sky':  'bc-Sky',
+    'Joyn': 'bc-Joyn',
+    'kino': 'bc-kino',
+    'TV':   'bc-TV',
+  };
+
   function buildCard(p) {
     const hasImage = p.poster && p.poster.trim();
     const hasLink  = p.crewUnited && p.crewUnited.trim();
     const typeLabel = escHtml(p.type ?? '');
-    const year     = escHtml(String(p.year ?? ''));
-    const title    = escHtml(p.title ?? '');
-    const role     = escHtml(p.role ?? '');
-    const prod     = escHtml(p.production ?? '');
+    const year      = escHtml(String(p.year ?? ''));
+    const title     = escHtml(p.title ?? '');
+    const role      = escHtml(p.role ?? '');
+    const prod      = escHtml(p.production ?? '');
+    const bc        = p.broadcaster ?? '';
+    const bcLabel   = BROADCASTER_LABELS[bc] ?? escHtml(bc);
+    const bcClass   = BROADCASTER_CLASS[bc] ?? 'bc-TV';
+
+    const broadcasterBadge = bc
+      ? `<span class="broadcaster-badge ${bcClass}">${bcLabel}</span>`
+      : '';
 
     const imageContent = hasImage
       ? `<img src="${escHtml(p.poster)}" alt="Filmplakat ${title}" loading="lazy">`
@@ -68,6 +94,7 @@
       <article class="poster-card" ${hasLink ? `data-url="${escHtml(p.crewUnited)}"` : ''}>
         <div class="poster-image-wrap">
           ${imageContent}
+          ${broadcasterBadge}
           <div class="poster-overlay">
             <p class="overlay-role">${role}</p>
             ${prod ? `<p class="overlay-production">${prod}</p>` : ''}
