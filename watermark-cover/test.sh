@@ -13,7 +13,7 @@ HERE="$(cd "$(dirname "$0")" && pwd)"
 SOURCE="/Users/mittelmax/Desktop/andre-capcut.Utopia-CapcutMaster-H264.mov"
 
 # ── Edit these as needed ──────────────────────────────────────────────────────
-START="${1:-TIMECODE_PLACEHOLDER}"   # ← replace or pass as arg
+START="${1:-00:10:00}"
 DURATION=20
 # ─────────────────────────────────────────────────────────────────────────────
 
